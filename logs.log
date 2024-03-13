@@ -1,0 +1,750 @@
+2024-03-05 00:33:11,049:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 00:33:11,049:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 00:33:11,049:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 00:33:11,049:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 00:33:12,154:INFO:PyCaret ClassificationExperiment
+2024-03-05 00:33:12,155:INFO:Logging name: clf-default-name
+2024-03-05 00:33:12,155:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-03-05 00:33:12,155:INFO:version 3.3.0
+2024-03-05 00:33:12,155:INFO:Initializing setup()
+2024-03-05 00:33:12,155:INFO:self.USI: 72ae
+2024-03-05 00:33:12,155:INFO:self._variable_keys: {'log_plots_param', 'exp_name_log', '_ml_usecase', 'gpu_param', 'idx', 'is_multiclass', 'pipeline', 'html_param', 'logging_param', 'y', 'gpu_n_jobs_param', 'memory', 'data', '_available_plots', 'fix_imbalance', 'X_test', 'X', 'y_test', 'fold_generator', 'fold_groups_param', 'n_jobs_param', 'y_train', 'fold_shuffle_param', 'target_param', 'X_train', 'USI', 'seed', 'exp_id'}
+2024-03-05 00:33:12,155:INFO:Checking environment
+2024-03-05 00:33:12,155:INFO:python_version: 3.10.9
+2024-03-05 00:33:12,155:INFO:python_build: ('main', 'Mar  1 2023 18:18:15')
+2024-03-05 00:33:12,155:INFO:machine: AMD64
+2024-03-05 00:33:12,155:INFO:platform: Windows-10-10.0.19045-SP0
+2024-03-05 00:33:12,156:INFO:Memory: svmem(total=17109983232, available=7314944000, percent=57.2, used=9795039232, free=7314944000)
+2024-03-05 00:33:12,156:INFO:Physical Core: 6
+2024-03-05 00:33:12,156:INFO:Logical Core: 6
+2024-03-05 00:33:12,156:INFO:Checking libraries
+2024-03-05 00:33:12,156:INFO:System:
+2024-03-05 00:33:12,156:INFO:    python: 3.10.9 | packaged by Anaconda, Inc. | (main, Mar  1 2023, 18:18:15) [MSC v.1916 64 bit (AMD64)]
+2024-03-05 00:33:12,156:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-03-05 00:33:12,156:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-03-05 00:33:12,156:INFO:PyCaret required dependencies:
+2024-03-05 01:26:16,396:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 01:26:16,396:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 01:26:16,396:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 01:26:16,396:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 01:30:05,899:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 01:30:05,899:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 01:30:05,899:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 01:30:05,899:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 01:30:21,123:INFO:PyCaret ClassificationExperiment
+2024-03-05 01:30:21,124:INFO:Logging name: clf-default-name
+2024-03-05 01:30:21,124:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-03-05 01:30:21,124:INFO:version 3.3.0
+2024-03-05 01:30:21,124:INFO:Initializing setup()
+2024-03-05 01:30:21,124:INFO:self.USI: 64c4
+2024-03-05 01:30:21,124:INFO:self._variable_keys: {'USI', 'X_train', 'fold_groups_param', 'logging_param', '_ml_usecase', '_available_plots', 'fold_shuffle_param', 'log_plots_param', 'gpu_n_jobs_param', 'y', 'is_multiclass', 'memory', 'html_param', 'exp_id', 'fix_imbalance', 'target_param', 'fold_generator', 'seed', 'n_jobs_param', 'data', 'X_test', 'pipeline', 'y_train', 'idx', 'y_test', 'X', 'exp_name_log', 'gpu_param'}
+2024-03-05 01:30:21,124:INFO:Checking environment
+2024-03-05 01:30:21,124:INFO:python_version: 3.10.9
+2024-03-05 01:30:21,124:INFO:python_build: ('main', 'Mar  1 2023 18:18:15')
+2024-03-05 01:30:21,124:INFO:machine: AMD64
+2024-03-05 01:30:21,124:INFO:platform: Windows-10-10.0.19045-SP0
+2024-03-05 01:30:21,124:INFO:Memory: svmem(total=17109983232, available=6637015040, percent=61.2, used=10472968192, free=6637015040)
+2024-03-05 01:30:21,124:INFO:Physical Core: 6
+2024-03-05 01:30:21,124:INFO:Logical Core: 6
+2024-03-05 01:30:21,124:INFO:Checking libraries
+2024-03-05 01:30:21,124:INFO:System:
+2024-03-05 01:30:21,124:INFO:    python: 3.10.9 | packaged by Anaconda, Inc. | (main, Mar  1 2023, 18:18:15) [MSC v.1916 64 bit (AMD64)]
+2024-03-05 01:30:21,125:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-03-05 01:30:21,125:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-03-05 01:30:21,125:INFO:PyCaret required dependencies:
+2024-03-05 01:38:45,264:INFO:PyCaret ClassificationExperiment
+2024-03-05 01:38:45,264:INFO:Logging name: clf-default-name
+2024-03-05 01:38:45,264:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-03-05 01:38:45,264:INFO:version 3.3.0
+2024-03-05 01:38:45,264:INFO:Initializing setup()
+2024-03-05 01:38:45,264:INFO:self.USI: 3bef
+2024-03-05 01:38:45,264:INFO:self._variable_keys: {'USI', 'X_train', 'fold_groups_param', 'logging_param', '_ml_usecase', '_available_plots', 'fold_shuffle_param', 'log_plots_param', 'gpu_n_jobs_param', 'y', 'is_multiclass', 'memory', 'html_param', 'exp_id', 'fix_imbalance', 'target_param', 'fold_generator', 'seed', 'n_jobs_param', 'data', 'X_test', 'pipeline', 'y_train', 'idx', 'y_test', 'X', 'exp_name_log', 'gpu_param'}
+2024-03-05 01:38:45,265:INFO:Checking environment
+2024-03-05 01:38:45,265:INFO:python_version: 3.10.9
+2024-03-05 01:38:45,265:INFO:python_build: ('main', 'Mar  1 2023 18:18:15')
+2024-03-05 01:38:45,265:INFO:machine: AMD64
+2024-03-05 01:38:45,265:INFO:platform: Windows-10-10.0.19045-SP0
+2024-03-05 01:38:45,265:INFO:Memory: svmem(total=17109983232, available=6519668736, percent=61.9, used=10590314496, free=6519668736)
+2024-03-05 01:38:45,265:INFO:Physical Core: 6
+2024-03-05 01:38:45,265:INFO:Logical Core: 6
+2024-03-05 01:38:45,265:INFO:Checking libraries
+2024-03-05 01:38:45,265:INFO:System:
+2024-03-05 01:38:45,265:INFO:    python: 3.10.9 | packaged by Anaconda, Inc. | (main, Mar  1 2023, 18:18:15) [MSC v.1916 64 bit (AMD64)]
+2024-03-05 01:38:45,265:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-03-05 01:38:45,265:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-03-05 01:38:45,265:INFO:PyCaret required dependencies:
+2024-03-05 01:39:38,628:INFO:PyCaret ClassificationExperiment
+2024-03-05 01:39:38,628:INFO:Logging name: clf-default-name
+2024-03-05 01:39:38,628:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-03-05 01:39:38,628:INFO:version 3.3.0
+2024-03-05 01:39:38,628:INFO:Initializing setup()
+2024-03-05 01:39:38,628:INFO:self.USI: 6311
+2024-03-05 01:39:38,628:INFO:self._variable_keys: {'USI', 'X_train', 'fold_groups_param', 'logging_param', '_ml_usecase', '_available_plots', 'fold_shuffle_param', 'log_plots_param', 'gpu_n_jobs_param', 'y', 'is_multiclass', 'memory', 'html_param', 'exp_id', 'fix_imbalance', 'target_param', 'fold_generator', 'seed', 'n_jobs_param', 'data', 'X_test', 'pipeline', 'y_train', 'idx', 'y_test', 'X', 'exp_name_log', 'gpu_param'}
+2024-03-05 01:39:38,628:INFO:Checking environment
+2024-03-05 01:39:38,628:INFO:python_version: 3.10.9
+2024-03-05 01:39:38,628:INFO:python_build: ('main', 'Mar  1 2023 18:18:15')
+2024-03-05 01:39:38,628:INFO:machine: AMD64
+2024-03-05 01:39:38,628:INFO:platform: Windows-10-10.0.19045-SP0
+2024-03-05 01:39:38,629:INFO:Memory: svmem(total=17109983232, available=6578454528, percent=61.6, used=10531528704, free=6578454528)
+2024-03-05 01:39:38,629:INFO:Physical Core: 6
+2024-03-05 01:39:38,629:INFO:Logical Core: 6
+2024-03-05 01:39:38,629:INFO:Checking libraries
+2024-03-05 01:39:38,629:INFO:System:
+2024-03-05 01:39:38,629:INFO:    python: 3.10.9 | packaged by Anaconda, Inc. | (main, Mar  1 2023, 18:18:15) [MSC v.1916 64 bit (AMD64)]
+2024-03-05 01:39:38,629:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-03-05 01:39:38,629:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-03-05 01:39:38,629:INFO:PyCaret required dependencies:
+2024-03-05 01:40:33,813:INFO:PyCaret ClassificationExperiment
+2024-03-05 01:40:33,813:INFO:Logging name: clf-default-name
+2024-03-05 01:40:33,813:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-03-05 01:40:33,814:INFO:version 3.3.0
+2024-03-05 01:40:33,814:INFO:Initializing setup()
+2024-03-05 01:40:33,814:INFO:self.USI: cb9d
+2024-03-05 01:40:33,814:INFO:self._variable_keys: {'USI', 'X_train', 'fold_groups_param', 'logging_param', '_ml_usecase', '_available_plots', 'fold_shuffle_param', 'log_plots_param', 'gpu_n_jobs_param', 'y', 'is_multiclass', 'memory', 'html_param', 'exp_id', 'fix_imbalance', 'target_param', 'fold_generator', 'seed', 'n_jobs_param', 'data', 'X_test', 'pipeline', 'y_train', 'idx', 'y_test', 'X', 'exp_name_log', 'gpu_param'}
+2024-03-05 01:40:33,814:INFO:Checking environment
+2024-03-05 01:40:33,814:INFO:python_version: 3.10.9
+2024-03-05 01:40:33,814:INFO:python_build: ('main', 'Mar  1 2023 18:18:15')
+2024-03-05 01:40:33,814:INFO:machine: AMD64
+2024-03-05 01:40:33,814:INFO:platform: Windows-10-10.0.19045-SP0
+2024-03-05 01:40:33,814:INFO:Memory: svmem(total=17109983232, available=6512295936, percent=61.9, used=10597687296, free=6512295936)
+2024-03-05 01:40:33,814:INFO:Physical Core: 6
+2024-03-05 01:40:33,814:INFO:Logical Core: 6
+2024-03-05 01:40:33,814:INFO:Checking libraries
+2024-03-05 01:40:33,814:INFO:System:
+2024-03-05 01:40:33,814:INFO:    python: 3.10.9 | packaged by Anaconda, Inc. | (main, Mar  1 2023, 18:18:15) [MSC v.1916 64 bit (AMD64)]
+2024-03-05 01:40:33,815:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-03-05 01:40:33,815:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-03-05 01:40:33,815:INFO:PyCaret required dependencies:
+2024-03-05 01:42:17,880:INFO:gpu_param set to False
+2024-03-05 01:42:17,880:INFO:Engine for model 'lr' has not been set explicitly, hence returning None.
+2024-03-05 01:42:17,922:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-03-05 01:42:17,926:INFO:Engine for model 'rbfsvm' has not been set explicitly, hence returning None.
+2024-03-05 01:42:18,066:INFO:Soft dependency imported: xgboost: 2.0.2
+2024-03-05 01:45:04,509:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 01:45:04,510:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 01:45:04,510:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 01:45:04,510:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 01:45:05,021:INFO:PyCaret ClassificationExperiment
+2024-03-05 01:45:05,021:INFO:Logging name: clf-default-name
+2024-03-05 01:45:05,021:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-03-05 01:45:05,021:INFO:version 3.3.0
+2024-03-05 01:45:05,021:INFO:Initializing setup()
+2024-03-05 01:45:05,021:INFO:self.USI: 322a
+2024-03-05 01:45:05,022:INFO:self._variable_keys: {'X', 'exp_name_log', 'html_param', 'fold_shuffle_param', 'logging_param', 'y', 'pipeline', 'X_test', 'exp_id', 'fold_generator', 'gpu_param', 'y_train', 'memory', 'idx', 'is_multiclass', 'seed', 'X_train', 'USI', 'y_test', 'fix_imbalance', '_ml_usecase', 'gpu_n_jobs_param', 'data', '_available_plots', 'log_plots_param', 'n_jobs_param', 'fold_groups_param', 'target_param'}
+2024-03-05 01:45:05,022:INFO:Checking environment
+2024-03-05 01:45:05,022:INFO:python_version: 3.10.9
+2024-03-05 01:45:05,022:INFO:python_build: ('main', 'Mar  1 2023 18:18:15')
+2024-03-05 01:45:05,022:INFO:machine: AMD64
+2024-03-05 01:45:05,022:INFO:platform: Windows-10-10.0.19045-SP0
+2024-03-05 01:45:05,022:INFO:Memory: svmem(total=17109983232, available=6184943616, percent=63.9, used=10925039616, free=6184943616)
+2024-03-05 01:45:05,022:INFO:Physical Core: 6
+2024-03-05 01:45:05,022:INFO:Logical Core: 6
+2024-03-05 01:45:05,022:INFO:Checking libraries
+2024-03-05 01:45:05,022:INFO:System:
+2024-03-05 01:45:05,022:INFO:    python: 3.10.9 | packaged by Anaconda, Inc. | (main, Mar  1 2023, 18:18:15) [MSC v.1916 64 bit (AMD64)]
+2024-03-05 01:45:05,022:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-03-05 01:45:05,022:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-03-05 01:45:05,022:INFO:PyCaret required dependencies:
+2024-03-05 01:53:14,095:INFO:PyCaret ClassificationExperiment
+2024-03-05 01:53:14,095:INFO:Logging name: clf-default-name
+2024-03-05 01:53:14,095:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-03-05 01:53:14,095:INFO:version 3.3.0
+2024-03-05 01:53:14,095:INFO:Initializing setup()
+2024-03-05 01:53:14,095:INFO:self.USI: e9b9
+2024-03-05 01:53:14,095:INFO:self._variable_keys: {'USI', 'X_train', 'fold_groups_param', 'logging_param', '_ml_usecase', '_available_plots', 'fold_shuffle_param', 'log_plots_param', 'gpu_n_jobs_param', 'y', 'is_multiclass', 'memory', 'html_param', 'exp_id', 'fix_imbalance', 'target_param', 'fold_generator', 'seed', 'n_jobs_param', 'data', 'X_test', 'pipeline', 'y_train', 'idx', 'y_test', 'X', 'exp_name_log', 'gpu_param'}
+2024-03-05 01:53:14,096:INFO:Checking environment
+2024-03-05 01:53:14,096:INFO:python_version: 3.10.9
+2024-03-05 01:53:14,096:INFO:python_build: ('main', 'Mar  1 2023 18:18:15')
+2024-03-05 01:53:14,096:INFO:machine: AMD64
+2024-03-05 01:53:14,096:INFO:platform: Windows-10-10.0.19045-SP0
+2024-03-05 01:53:14,096:INFO:Memory: svmem(total=17109983232, available=6440312832, percent=62.4, used=10669670400, free=6440312832)
+2024-03-05 01:53:14,096:INFO:Physical Core: 6
+2024-03-05 01:53:14,096:INFO:Logical Core: 6
+2024-03-05 01:53:14,096:INFO:Checking libraries
+2024-03-05 01:53:14,096:INFO:System:
+2024-03-05 01:53:14,096:INFO:    python: 3.10.9 | packaged by Anaconda, Inc. | (main, Mar  1 2023, 18:18:15) [MSC v.1916 64 bit (AMD64)]
+2024-03-05 01:53:14,096:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-03-05 01:53:14,096:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-03-05 01:53:14,096:INFO:PyCaret required dependencies:
+2024-03-05 01:55:29,885:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 01:55:29,885:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 01:55:29,885:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 01:55:29,885:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 01:55:35,349:INFO:PyCaret ClassificationExperiment
+2024-03-05 01:55:35,349:INFO:Logging name: clf-default-name
+2024-03-05 01:55:35,349:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-03-05 01:55:35,349:INFO:version 3.3.0
+2024-03-05 01:55:35,349:INFO:Initializing setup()
+2024-03-05 01:55:35,349:INFO:self.USI: 20b4
+2024-03-05 01:55:35,350:INFO:self._variable_keys: {'n_jobs_param', 'logging_param', 'gpu_n_jobs_param', 'exp_id', 'target_param', 'fold_generator', 'exp_name_log', 'gpu_param', 'X', 'data', 'log_plots_param', 'y_test', 'is_multiclass', 'memory', 'X_test', 'USI', 'pipeline', 'y', 'html_param', 'fold_shuffle_param', 'seed', 'fold_groups_param', 'fix_imbalance', 'idx', 'y_train', '_ml_usecase', '_available_plots', 'X_train'}
+2024-03-05 01:55:35,350:INFO:Checking environment
+2024-03-05 01:55:35,350:INFO:python_version: 3.10.9
+2024-03-05 01:55:35,350:INFO:python_build: ('main', 'Mar  1 2023 18:18:15')
+2024-03-05 01:55:35,350:INFO:machine: AMD64
+2024-03-05 01:55:35,350:INFO:platform: Windows-10-10.0.19045-SP0
+2024-03-05 01:55:35,350:INFO:Memory: svmem(total=17109983232, available=6332493824, percent=63.0, used=10777489408, free=6332493824)
+2024-03-05 01:55:35,350:INFO:Physical Core: 6
+2024-03-05 01:55:35,350:INFO:Logical Core: 6
+2024-03-05 01:55:35,350:INFO:Checking libraries
+2024-03-05 01:55:35,350:INFO:System:
+2024-03-05 01:55:35,350:INFO:    python: 3.10.9 | packaged by Anaconda, Inc. | (main, Mar  1 2023, 18:18:15) [MSC v.1916 64 bit (AMD64)]
+2024-03-05 01:55:35,350:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-03-05 01:55:35,350:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-03-05 01:55:35,350:INFO:PyCaret required dependencies:
+2024-03-05 01:55:56,859:INFO:PyCaret ClassificationExperiment
+2024-03-05 01:55:56,860:INFO:Logging name: clf-default-name
+2024-03-05 01:55:56,860:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-03-05 01:55:56,860:INFO:version 3.3.0
+2024-03-05 01:55:56,860:INFO:Initializing setup()
+2024-03-05 01:55:56,860:INFO:self.USI: 5060
+2024-03-05 01:55:56,860:INFO:self._variable_keys: {'n_jobs_param', 'logging_param', 'gpu_n_jobs_param', 'exp_id', 'target_param', 'fold_generator', 'exp_name_log', 'gpu_param', 'X', 'data', 'log_plots_param', 'y_test', 'is_multiclass', 'memory', 'X_test', 'USI', 'pipeline', 'y', 'html_param', 'fold_shuffle_param', 'seed', 'fold_groups_param', 'fix_imbalance', 'idx', 'y_train', '_ml_usecase', '_available_plots', 'X_train'}
+2024-03-05 01:55:56,860:INFO:Checking environment
+2024-03-05 01:55:56,860:INFO:python_version: 3.10.9
+2024-03-05 01:55:56,860:INFO:python_build: ('main', 'Mar  1 2023 18:18:15')
+2024-03-05 01:55:56,860:INFO:machine: AMD64
+2024-03-05 01:55:56,860:INFO:platform: Windows-10-10.0.19045-SP0
+2024-03-05 01:55:56,860:INFO:Memory: svmem(total=17109983232, available=6252240896, percent=63.5, used=10857742336, free=6252240896)
+2024-03-05 01:55:56,860:INFO:Physical Core: 6
+2024-03-05 01:55:56,860:INFO:Logical Core: 6
+2024-03-05 01:55:56,860:INFO:Checking libraries
+2024-03-05 01:55:56,861:INFO:System:
+2024-03-05 01:55:56,861:INFO:    python: 3.10.9 | packaged by Anaconda, Inc. | (main, Mar  1 2023, 18:18:15) [MSC v.1916 64 bit (AMD64)]
+2024-03-05 01:55:56,861:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-03-05 01:55:56,861:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-03-05 01:55:56,861:INFO:PyCaret required dependencies:
+2024-03-05 02:16:33,927:INFO:PyCaret ClassificationExperiment
+2024-03-05 02:16:33,927:INFO:Logging name: clf-default-name
+2024-03-05 02:16:33,927:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-03-05 02:16:33,927:INFO:version 3.3.0
+2024-03-05 02:16:33,927:INFO:Initializing setup()
+2024-03-05 02:16:33,927:INFO:self.USI: f197
+2024-03-05 02:16:33,929:INFO:self._variable_keys: {'n_jobs_param', 'logging_param', 'gpu_n_jobs_param', 'exp_id', 'target_param', 'fold_generator', 'exp_name_log', 'gpu_param', 'X', 'data', 'log_plots_param', 'y_test', 'is_multiclass', 'memory', 'X_test', 'USI', 'pipeline', 'y', 'html_param', 'fold_shuffle_param', 'seed', 'fold_groups_param', 'fix_imbalance', 'idx', 'y_train', '_ml_usecase', '_available_plots', 'X_train'}
+2024-03-05 02:16:33,929:INFO:Checking environment
+2024-03-05 02:16:33,929:INFO:python_version: 3.10.9
+2024-03-05 02:16:33,929:INFO:python_build: ('main', 'Mar  1 2023 18:18:15')
+2024-03-05 02:16:33,929:INFO:machine: AMD64
+2024-03-05 02:16:33,929:INFO:platform: Windows-10-10.0.19045-SP0
+2024-03-05 02:16:33,930:INFO:Memory: svmem(total=17109983232, available=6178885632, percent=63.9, used=10931097600, free=6178885632)
+2024-03-05 02:16:33,930:INFO:Physical Core: 6
+2024-03-05 02:16:33,930:INFO:Logical Core: 6
+2024-03-05 02:16:33,930:INFO:Checking libraries
+2024-03-05 02:16:33,930:INFO:System:
+2024-03-05 02:16:33,930:INFO:    python: 3.10.9 | packaged by Anaconda, Inc. | (main, Mar  1 2023, 18:18:15) [MSC v.1916 64 bit (AMD64)]
+2024-03-05 02:16:33,930:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-03-05 02:16:33,930:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-03-05 02:16:33,930:INFO:PyCaret required dependencies:
+2024-03-05 02:24:51,507:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 02:24:51,507:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 02:24:51,508:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 02:24:51,508:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 02:24:52,125:INFO:PyCaret ClassificationExperiment
+2024-03-05 02:24:52,126:INFO:Logging name: clf-default-name
+2024-03-05 02:24:52,126:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-03-05 02:24:52,126:INFO:version 3.3.0
+2024-03-05 02:24:52,126:INFO:Initializing setup()
+2024-03-05 02:24:52,126:INFO:self.USI: e6be
+2024-03-05 02:24:52,126:INFO:self._variable_keys: {'gpu_n_jobs_param', 'logging_param', 'USI', 'X_test', 'pipeline', 'exp_name_log', 'fix_imbalance', 'seed', 'fold_shuffle_param', 'y_test', 'html_param', 'data', 'y_train', 'gpu_param', 'fold_groups_param', 'fold_generator', 'exp_id', 'is_multiclass', 'y', 'log_plots_param', '_ml_usecase', 'memory', 'n_jobs_param', 'idx', 'X', 'target_param', 'X_train', '_available_plots'}
+2024-03-05 02:24:52,126:INFO:Checking environment
+2024-03-05 02:24:52,126:INFO:python_version: 3.10.9
+2024-03-05 02:24:52,126:INFO:python_build: ('main', 'Mar  1 2023 18:18:15')
+2024-03-05 02:24:52,126:INFO:machine: AMD64
+2024-03-05 02:24:52,126:INFO:platform: Windows-10-10.0.19045-SP0
+2024-03-05 02:24:52,126:INFO:Memory: svmem(total=17109983232, available=6480642048, percent=62.1, used=10629341184, free=6480642048)
+2024-03-05 02:24:52,127:INFO:Physical Core: 6
+2024-03-05 02:24:52,127:INFO:Logical Core: 6
+2024-03-05 02:24:52,127:INFO:Checking libraries
+2024-03-05 02:24:52,127:INFO:System:
+2024-03-05 02:24:52,127:INFO:    python: 3.10.9 | packaged by Anaconda, Inc. | (main, Mar  1 2023, 18:18:15) [MSC v.1916 64 bit (AMD64)]
+2024-03-05 02:24:52,127:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-03-05 02:24:52,127:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-03-05 02:24:52,127:INFO:PyCaret required dependencies:
+2024-03-05 02:28:24,468:INFO:PyCaret ClassificationExperiment
+2024-03-05 02:28:24,468:INFO:Logging name: clf-default-name
+2024-03-05 02:28:24,469:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-03-05 02:28:24,469:INFO:version 3.3.0
+2024-03-05 02:28:24,469:INFO:Initializing setup()
+2024-03-05 02:28:24,469:INFO:self.USI: 8ea3
+2024-03-05 02:28:24,469:INFO:self._variable_keys: {'USI', 'X_train', 'fold_groups_param', 'logging_param', '_ml_usecase', '_available_plots', 'fold_shuffle_param', 'log_plots_param', 'gpu_n_jobs_param', 'y', 'is_multiclass', 'memory', 'html_param', 'exp_id', 'fix_imbalance', 'target_param', 'fold_generator', 'seed', 'n_jobs_param', 'data', 'X_test', 'pipeline', 'y_train', 'idx', 'y_test', 'X', 'exp_name_log', 'gpu_param'}
+2024-03-05 02:28:24,469:INFO:Checking environment
+2024-03-05 02:28:24,469:INFO:python_version: 3.10.9
+2024-03-05 02:28:24,469:INFO:python_build: ('main', 'Mar  1 2023 18:18:15')
+2024-03-05 02:28:24,469:INFO:machine: AMD64
+2024-03-05 02:28:24,469:INFO:platform: Windows-10-10.0.19045-SP0
+2024-03-05 02:28:24,469:INFO:Memory: svmem(total=17109983232, available=6356103168, percent=62.9, used=10753880064, free=6356103168)
+2024-03-05 02:28:24,469:INFO:Physical Core: 6
+2024-03-05 02:28:24,469:INFO:Logical Core: 6
+2024-03-05 02:28:24,469:INFO:Checking libraries
+2024-03-05 02:28:24,469:INFO:System:
+2024-03-05 02:28:24,470:INFO:    python: 3.10.9 | packaged by Anaconda, Inc. | (main, Mar  1 2023, 18:18:15) [MSC v.1916 64 bit (AMD64)]
+2024-03-05 02:28:24,470:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-03-05 02:28:24,470:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-03-05 02:28:24,470:INFO:PyCaret required dependencies:
+2024-03-05 02:36:32,063:INFO:PyCaret ClassificationExperiment
+2024-03-05 02:36:32,064:INFO:Logging name: clf-default-name
+2024-03-05 02:36:32,064:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-03-05 02:36:32,064:INFO:version 3.3.0
+2024-03-05 02:36:32,064:INFO:Initializing setup()
+2024-03-05 02:36:32,064:INFO:self.USI: 62e7
+2024-03-05 02:36:32,064:INFO:self._variable_keys: {'USI', 'X_train', 'fold_groups_param', 'logging_param', '_ml_usecase', '_available_plots', 'fold_shuffle_param', 'log_plots_param', 'gpu_n_jobs_param', 'y', 'is_multiclass', 'memory', 'html_param', 'exp_id', 'fix_imbalance', 'target_param', 'fold_generator', 'seed', 'n_jobs_param', 'data', 'X_test', 'pipeline', 'y_train', 'idx', 'y_test', 'X', 'exp_name_log', 'gpu_param'}
+2024-03-05 02:36:32,064:INFO:Checking environment
+2024-03-05 02:36:32,064:INFO:python_version: 3.10.9
+2024-03-05 02:36:32,064:INFO:python_build: ('main', 'Mar  1 2023 18:18:15')
+2024-03-05 02:36:32,064:INFO:machine: AMD64
+2024-03-05 02:36:32,064:INFO:platform: Windows-10-10.0.19045-SP0
+2024-03-05 02:36:32,064:INFO:Memory: svmem(total=17109983232, available=6634639360, percent=61.2, used=10475343872, free=6634639360)
+2024-03-05 02:36:32,064:INFO:Physical Core: 6
+2024-03-05 02:36:32,065:INFO:Logical Core: 6
+2024-03-05 02:36:32,065:INFO:Checking libraries
+2024-03-05 02:36:32,065:INFO:System:
+2024-03-05 02:36:32,065:INFO:    python: 3.10.9 | packaged by Anaconda, Inc. | (main, Mar  1 2023, 18:18:15) [MSC v.1916 64 bit (AMD64)]
+2024-03-05 02:36:32,065:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-03-05 02:36:32,065:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-03-05 02:36:32,065:INFO:PyCaret required dependencies:
+2024-03-05 02:53:29,110:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 02:53:29,110:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 02:53:29,110:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 02:53:29,110:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 02:53:29,655:INFO:PyCaret ClassificationExperiment
+2024-03-05 02:53:29,655:INFO:Logging name: clf-default-name
+2024-03-05 02:53:29,655:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-03-05 02:53:29,655:INFO:version 3.3.0
+2024-03-05 02:53:29,655:INFO:Initializing setup()
+2024-03-05 02:53:29,655:INFO:self.USI: 5cbe
+2024-03-05 02:53:29,655:INFO:self._variable_keys: {'html_param', 'logging_param', 'gpu_param', 'memory', 'n_jobs_param', 'seed', 'X_train', 'X', 'fold_groups_param', 'X_test', 'exp_id', 'fix_imbalance', 'data', 'target_param', '_available_plots', 'gpu_n_jobs_param', '_ml_usecase', 'idx', 'fold_shuffle_param', 'fold_generator', 'pipeline', 'exp_name_log', 'y_test', 'log_plots_param', 'USI', 'y', 'y_train', 'is_multiclass'}
+2024-03-05 02:53:29,655:INFO:Checking environment
+2024-03-05 02:53:29,655:INFO:python_version: 3.10.9
+2024-03-05 02:53:29,655:INFO:python_build: ('main', 'Mar  1 2023 18:18:15')
+2024-03-05 02:53:29,655:INFO:machine: AMD64
+2024-03-05 02:53:29,655:INFO:platform: Windows-10-10.0.19045-SP0
+2024-03-05 02:53:29,655:INFO:Memory: svmem(total=17109983232, available=6503034880, percent=62.0, used=10606948352, free=6503034880)
+2024-03-05 02:53:29,655:INFO:Physical Core: 6
+2024-03-05 02:53:29,656:INFO:Logical Core: 6
+2024-03-05 02:53:29,656:INFO:Checking libraries
+2024-03-05 02:53:29,656:INFO:System:
+2024-03-05 02:53:29,656:INFO:    python: 3.10.9 | packaged by Anaconda, Inc. | (main, Mar  1 2023, 18:18:15) [MSC v.1916 64 bit (AMD64)]
+2024-03-05 02:53:29,656:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-03-05 02:53:29,656:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-03-05 02:53:29,656:INFO:PyCaret required dependencies:
+2024-03-05 03:02:22,734:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 03:02:22,734:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 03:02:22,734:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 03:02:22,734:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 03:02:23,257:INFO:PyCaret ClassificationExperiment
+2024-03-05 03:02:23,257:INFO:Logging name: clf-default-name
+2024-03-05 03:02:23,257:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-03-05 03:02:23,257:INFO:version 3.3.0
+2024-03-05 03:02:23,257:INFO:Initializing setup()
+2024-03-05 03:02:23,257:INFO:self.USI: 871f
+2024-03-05 03:02:23,257:INFO:self._variable_keys: {'fold_groups_param', 'fix_imbalance', 'X_test', 'log_plots_param', 'target_param', 'y_train', '_available_plots', 'X', 'y_test', 'memory', 'y', 'fold_generator', '_ml_usecase', 'X_train', 'idx', 'exp_id', 'USI', 'fold_shuffle_param', 'gpu_param', 'exp_name_log', 'logging_param', 'seed', 'gpu_n_jobs_param', 'n_jobs_param', 'data', 'pipeline', 'is_multiclass', 'html_param'}
+2024-03-05 03:02:23,257:INFO:Checking environment
+2024-03-05 03:02:23,257:INFO:python_version: 3.10.9
+2024-03-05 03:02:23,257:INFO:python_build: ('main', 'Mar  1 2023 18:18:15')
+2024-03-05 03:02:23,258:INFO:machine: AMD64
+2024-03-05 03:02:23,258:INFO:platform: Windows-10-10.0.19045-SP0
+2024-03-05 03:02:23,258:INFO:Memory: svmem(total=17109983232, available=5908414464, percent=65.5, used=11201568768, free=5908414464)
+2024-03-05 03:02:23,258:INFO:Physical Core: 6
+2024-03-05 03:02:23,258:INFO:Logical Core: 6
+2024-03-05 03:02:23,258:INFO:Checking libraries
+2024-03-05 03:02:23,258:INFO:System:
+2024-03-05 03:02:23,258:INFO:    python: 3.10.9 | packaged by Anaconda, Inc. | (main, Mar  1 2023, 18:18:15) [MSC v.1916 64 bit (AMD64)]
+2024-03-05 03:02:23,258:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-03-05 03:02:23,258:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-03-05 03:02:23,258:INFO:PyCaret required dependencies:
+2024-03-05 03:35:22,996:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 03:35:22,996:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 03:35:22,996:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 03:35:22,996:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-05 03:35:24,065:INFO:PyCaret ClassificationExperiment
+2024-03-05 03:35:24,066:INFO:Logging name: clf-default-name
+2024-03-05 03:35:24,066:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-03-05 03:35:24,066:INFO:version 3.3.0
+2024-03-05 03:35:24,066:INFO:Initializing setup()
+2024-03-05 03:35:24,066:INFO:self.USI: 09ee
+2024-03-05 03:35:24,066:INFO:self._variable_keys: {'USI', 'fold_groups_param', '_ml_usecase', '_available_plots', 'seed', 'idx', 'gpu_n_jobs_param', 'y_test', 'fold_generator', 'target_param', 'html_param', 'n_jobs_param', 'y', 'fold_shuffle_param', 'gpu_param', 'X', 'X_test', 'log_plots_param', 'data', 'is_multiclass', 'exp_id', 'exp_name_log', 'pipeline', 'X_train', 'memory', 'fix_imbalance', 'logging_param', 'y_train'}
+2024-03-05 03:35:24,066:INFO:Checking environment
+2024-03-05 03:35:24,066:INFO:python_version: 3.10.9
+2024-03-05 03:35:24,066:INFO:python_build: ('main', 'Mar  1 2023 18:18:15')
+2024-03-05 03:35:24,066:INFO:machine: AMD64
+2024-03-05 03:35:24,066:INFO:platform: Windows-10-10.0.19045-SP0
+2024-03-05 03:35:24,066:INFO:Memory: svmem(total=17109983232, available=6863441920, percent=59.9, used=10246541312, free=6863441920)
+2024-03-05 03:35:24,066:INFO:Physical Core: 6
+2024-03-05 03:35:24,067:INFO:Logical Core: 6
+2024-03-05 03:35:24,067:INFO:Checking libraries
+2024-03-05 03:35:24,067:INFO:System:
+2024-03-05 03:35:24,067:INFO:    python: 3.10.9 | packaged by Anaconda, Inc. | (main, Mar  1 2023, 18:18:15) [MSC v.1916 64 bit (AMD64)]
+2024-03-05 03:35:24,067:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-03-05 03:35:24,067:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-03-05 03:35:24,067:INFO:PyCaret required dependencies:
+2024-03-06 00:31:15,273:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-06 00:31:15,273:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-06 00:31:15,273:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-06 00:31:15,273:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-12 01:12:27,937:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-12 01:12:27,938:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-12 01:12:27,938:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-12 01:12:27,938:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-12 01:12:40,743:INFO:Initializing load_model()
+2024-03-12 01:12:40,743:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-12 01:13:29,842:INFO:Initializing load_model()
+2024-03-12 01:13:29,842:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-12 01:13:50,163:INFO:Initializing load_model()
+2024-03-12 01:13:50,164:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-12 01:16:12,384:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-12 01:16:12,384:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-12 01:16:12,385:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-12 01:16:12,385:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-12 01:16:19,910:INFO:Initializing load_model()
+2024-03-12 01:16:19,910:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-12 01:20:15,722:INFO:Initializing load_model()
+2024-03-12 01:20:15,723:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-13 00:38:28,372:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:38:28,372:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:38:28,372:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:38:28,372:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:38:38,984:INFO:Initializing load_model()
+2024-03-13 00:38:38,984:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-13 00:40:24,715:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:40:24,715:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:40:24,715:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:40:24,715:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:40:32,526:INFO:Initializing load_model()
+2024-03-13 00:40:32,526:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-13 00:42:27,670:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:42:27,677:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:42:27,677:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:42:27,677:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:42:42,811:INFO:Initializing load_model()
+2024-03-13 00:42:42,811:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-13 00:43:48,133:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:43:48,133:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:43:48,133:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:43:48,133:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:43:55,315:INFO:Initializing load_model()
+2024-03-13 00:43:55,315:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-13 00:59:40,512:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:59:40,512:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:59:40,512:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:59:40,512:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-13 00:59:46,915:INFO:Initializing load_model()
+2024-03-13 00:59:46,915:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-13 01:00:59,212:INFO:Initializing load_model()
+2024-03-13 01:00:59,212:INFO:load_model(model_name=C:/Users/rhfariasn/Documents/EBAC/Cientista de Dados/Mod38 - Exercício 01 + Projeto Final/model_final, platform=None, authentication=None, verbose=True)
+2024-03-13 01:03:33,177:INFO:Initializing load_model()
+2024-03-13 01:03:33,177:INFO:load_model(model_name=C:/Users/Outro/Desktop/EBAC/Cientista de Dados/Aula 38, platform=None, authentication=None, verbose=True)
+2024-03-13 01:04:33,745:INFO:Initializing load_model()
+2024-03-13 01:04:33,745:INFO:load_model(model_name=C:/Users/Outro/Desktop/EBAC/Cientista de Dados/Aula 38, platform=None, authentication=None, verbose=True)
+2024-03-13 01:06:16,919:INFO:Initializing load_model()
+2024-03-13 01:06:16,919:INFO:load_model(model_name=C:/Users/Outro/Documents/, platform=None, authentication=None, verbose=True)
+2024-03-13 01:11:20,320:INFO:Initializing load_model()
+2024-03-13 01:11:20,320:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-13 01:55:35,091:INFO:Initializing load_model()
+2024-03-13 01:55:35,091:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-13 01:55:35,202:INFO:Initializing predict_model()
+2024-03-13 01:55:35,202:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='mau')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='mau')),
+                ('fix_perfect', Remove_100(target='mau')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(max_iter=1000, random_state=1183)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2024-03-13 01:55:35,202:INFO:Checking exceptions
+2024-03-13 01:55:35,202:INFO:Preloading libraries
+2024-03-13 01:57:37,694:INFO:Initializing load_model()
+2024-03-13 01:57:37,694:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-13 01:57:37,722:INFO:Initializing predict_model()
+2024-03-13 01:57:37,722:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='mau')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='mau')),
+                ('fix_perfect', Remove_100(target='mau')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(max_iter=1000, random_state=1183)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2024-03-13 01:57:37,722:INFO:Checking exceptions
+2024-03-13 01:57:37,722:INFO:Preloading libraries
+2024-03-13 01:59:15,633:INFO:Initializing load_model()
+2024-03-13 01:59:15,634:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-13 01:59:15,661:INFO:Initializing predict_model()
+2024-03-13 01:59:15,662:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='mau')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='mau')),
+                ('fix_perfect', Remove_100(target='mau')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(max_iter=1000, random_state=1183)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2024-03-13 01:59:15,662:INFO:Checking exceptions
+2024-03-13 01:59:15,662:INFO:Preloading libraries
+2024-03-13 02:00:18,213:INFO:Initializing load_model()
+2024-03-13 02:00:18,213:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-13 02:00:18,236:INFO:Initializing predict_model()
+2024-03-13 02:00:18,236:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='mau')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='mau')),
+                ('fix_perfect', Remove_100(target='mau')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(max_iter=1000, random_state=1183)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2024-03-13 02:00:18,236:INFO:Checking exceptions
+2024-03-13 02:00:18,236:INFO:Preloading libraries
+2024-03-13 02:00:40,074:INFO:Initializing load_model()
+2024-03-13 02:00:40,074:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-13 02:00:40,106:INFO:Initializing predict_model()
+2024-03-13 02:00:40,106:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='mau')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='mau')),
+                ('fix_perfect', Remove_100(target='mau')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(max_iter=1000, random_state=1183)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2024-03-13 02:00:40,107:INFO:Checking exceptions
+2024-03-13 02:00:40,107:INFO:Preloading libraries
+2024-03-13 02:03:26,197:INFO:Initializing load_model()
+2024-03-13 02:03:26,198:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-13 02:03:26,222:INFO:Initializing predict_model()
+2024-03-13 02:03:26,223:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='mau')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='mau')),
+                ('fix_perfect', Remove_100(target='mau')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(max_iter=1000, random_state=1183)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2024-03-13 02:03:26,223:INFO:Checking exceptions
+2024-03-13 02:03:26,223:INFO:Preloading libraries
+2024-03-13 02:03:44,724:INFO:Initializing load_model()
+2024-03-13 02:03:44,724:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-13 02:03:44,767:INFO:Initializing predict_model()
+2024-03-13 02:03:44,767:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='mau')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='mau')),
+                ('fix_perfect', Remove_100(target='mau')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(max_iter=1000, random_state=1183)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2024-03-13 02:03:44,767:INFO:Checking exceptions
+2024-03-13 02:03:44,767:INFO:Preloading libraries
+2024-03-13 02:05:19,936:INFO:Initializing load_model()
+2024-03-13 02:05:19,936:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-13 02:05:19,961:INFO:Initializing predict_model()
+2024-03-13 02:05:19,961:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='mau')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='mau')),
+                ('fix_perfect', Remove_100(target='mau')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(max_iter=1000, random_state=1183)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2024-03-13 02:05:19,961:INFO:Checking exceptions
+2024-03-13 02:05:19,961:INFO:Preloading libraries
+2024-03-13 02:05:38,048:INFO:Initializing load_model()
+2024-03-13 02:05:38,048:INFO:load_model(model_name=LR Model Aula 5 062022, platform=None, authentication=None, verbose=True)
+2024-03-13 02:05:38,087:INFO:Initializing predict_model()
+2024-03-13 02:05:38,087:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='mau')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='mau')),
+                ('fix_perfect', Remove_100(target='mau')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(max_iter=1000, random_state=1183)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2024-03-13 02:05:38,087:INFO:Checking exceptions
+2024-03-13 02:05:38,087:INFO:Preloading libraries
